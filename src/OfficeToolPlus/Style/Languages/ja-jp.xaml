@@ -10,7 +10,7 @@
     <sys:String x:Key="ISOMode">- ISO モード</sys:String>
     <sys:String x:Key="Notifications">お知らせ</sys:String>
     <sys:String x:Key="Help">ヘルプ情報</sys:String>
-    <sys:String x:Key="About">について</sys:String>
+    <sys:String x:Key="About">Office Tool Plus について</sys:String>
     <sys:String x:Key="Settings">設定</sys:String>
     <!-- Channels Name, if you don't want to translate them, please keep in English. -->
     <sys:String x:Key="PerpetualVL2019">Office 2019 長期エンタープライズ版チャンネル</sys:String>
